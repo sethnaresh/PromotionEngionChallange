@@ -1,0 +1,13 @@
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\bin\Debug\netcoreapp3.1\PromotionEngineChallange.exe
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\bin\Debug\netcoreapp3.1\PromotionEngineChallange.deps.json
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\bin\Debug\netcoreapp3.1\PromotionEngineChallange.runtimeconfig.json
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\bin\Debug\netcoreapp3.1\PromotionEngineChallange.runtimeconfig.dev.json
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\bin\Debug\netcoreapp3.1\PromotionEngineChallange.dll
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\bin\Debug\netcoreapp3.1\PromotionEngineChallange.pdb
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.csprojAssemblyReference.cache
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.AssemblyInfoInputs.cache
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.AssemblyInfo.cs
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.csproj.CoreCompileInputs.cache
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.dll
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.pdb
+C:\Users\nares\source\repos\PromotionEngineChallange\PromotionEngineChallange\obj\Debug\netcoreapp3.1\PromotionEngineChallange.genruntimeconfig.cache
